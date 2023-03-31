@@ -10,6 +10,9 @@ const Reviews = () => {
  <article className="rewiev">
     <div className="img-container">
         <img src={image} alt={name} className="person-img"/>
+        <h3>{name}</h3>
+        <h3>{job}</h3>
+        <p>{text}</p>
     </div>
  </article>
   );
