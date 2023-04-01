@@ -4,7 +4,7 @@ import { FaGithubSquare } from "react-icons/fa";
 
 function App() {
   return (
-    <div className="App">
+    <div >
       <Reviews />
     </div>
   );
